@@ -413,6 +413,7 @@ background-repeat: no-repeat;
 width: 1170px;
 height: 500px;
 border-radius: 16px;
+padding-top: 11px;
   
 }
 .dd{
@@ -425,6 +426,7 @@ border-radius: 16px;
     width: 1170px;
     height: 500px;
     border-radius: 16px;
+    padding-bottom: 15px;
 }
 .img_13{
     background-image: url("../Images/Group\ 39.png") ;
@@ -432,6 +434,7 @@ border-radius: 16px;
     width: 1170px;
     height: 500px;
     border-radius: 16px;
+   
 }
 .time{
 
@@ -688,6 +691,7 @@ font-weight: 400;
 }
 .footer{
     text-align: center;
+
 }
 
 .footer_1{
@@ -738,6 +742,7 @@ footer{
 height: 502px;
 margin: 0 auto;
 border-radius: 29px;
+margin-top: 83px;
 }
 
 
