@@ -377,42 +377,368 @@ background: rgba(251, 181, 99, 0.05);
 
 
 .Discounts_img{
-
+    margin-left: 362px;
+    margin-top: 105px;
 }
 .img_diskaon{
 
 }
-.img_11{
+.popur_img_1{
+   
+}
+.Discounts_hedar{
+    
+}
+.Discounts_hedar > h1{
+    color: #131318;
+    text-align: center;
+    
+    font-size: 40px;
 
+    font-weight: 800;
+   
+}
+.Discounts_hedar > p{
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    width: 643px;
+    font-size: 16px;
+    margin-left: 605px;
+    font-weight: 400;
+    line-height: 26px; 
+}
+.img_11{
+background-image: url("../Images/Group\ 39.png") ;
+background-repeat: no-repeat;
+width: 1170px;
+height: 500px;
+border-radius: 16px;
+  
+}
+.dd{
+    text-align: center;
+    margin-top: 100px;
 }
 .img_12{
-
+    background-image: url("../Images/Group\ 40.png") ;
+    background-repeat: no-repeat;
+    width: 1170px;
+    height: 500px;
+    border-radius: 16px;
 }
 .img_13{
-    
+    background-image: url("../Images/Group\ 39.png") ;
+    background-repeat: no-repeat;
+    width: 1170px;
+    height: 500px;
+    border-radius: 16px;
 }
 .time{
 
 }
+.time >ul {
+    display: flex;
+    list-style: none;
+   
+}
 .time_img{
-
+    padding-left: 56px;
+}
+.text_bay{
+    width: 579px;
+    height: 389px;
+   
+    border-radius: 16px;
+border: 2px solid #FFF;
+background: rgba(255, 255, 255, 0.80);
+backdrop-filter: blur(2.5px);
+margin-left: 531px;
+  position: relative;
+  top: 56px;
+}
+.bay{
+    margin-left: 56px;
 }
 .hedig{
-
+    color: #131318;
+  
+    font-size: 24px;
+  
+    font-weight: 800;
+    ;
 }
 
 .per{
+    color: #5A5A5D;
+  
+    font-size: 16px;
 
+    font-weight: 400;
+    line-height: 26px; 
+    width: 452px;
+    margin-left: 64px;
 }
 .h4{
+    color: #FF5400;
+  
+    font-size: 20px;
+
+    font-weight: 800;
 
 }
 .amarr{
+    width: 150px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FF5400;
+    color: white;
+  font-size: 20px;
+  font-weight: 800;
+}
+.logo_1{
+    background-image:  url(../Images/Fra.svg);
+    background-repeat: no-repeat;
+    background-position-x: 28px;
+  background-position-y: -2px;
+}
+
+.logo_2{
+    background-image:  url(../Images/Frame\ \(1\).svg);
+    background-repeat: no-repeat;
+    background-position-x: 28px;
+  background-position-y: -2px;
+}
+.logo_3{
+    background-image:  url(../Images/Frame\ \(2\).svg);
+    background-repeat: no-repeat;
+    background-position-x: 28px;
+  background-position-y: -2px;
+}
+.r{
+    margin-top: 74px;
+}
+.last_conten{
+    display: flex;
+    justify-content: center;
+  margin-top: 163px;
+}
+
+.last_pat{
+    background: #FFF;
+    width: 622px;
+    height: 495px;
+}
+.last_pat > h1{
+    width: 448px;
+    color: #131318;
+
+font-size: 40px;
+
+font-weight: 800;
+line-height: 60px; 
+}
+.last_pat > p{
+    width: 532px;
+    color: #5A5A5D;
+
+font-size: 16px;
+
+font-weight: 400;
+line-height: 26px; 
+}
+.last_pat >ul{
+    color: #131318;
+  
+    font-size: 16px;
+    width: 518px;
+    font-weight: 700;
+    line-height: 35px;
+}
+.last{
+    border-radius: 16px;
+
+    background-image: linear-gradient(180deg, #131318 -31.96%, rgba(19, 19, 24, 0.00) 100%), url(../Images/Group\ 40089.png);
+    background-repeat: no-repeat;
+    width: 610px;
+height: 424px;
+
+}
+.last > h1{
+    width: 276px;
+    color: #FFF;
+text-align: center;
+
+font-size: 24px;
+
+font-weight: 700;
+line-height: 36px; 
+margin: 0 auto;
+    margin-top: 0px;
+  margin-top: 180px;
+}
+.pera{
+    width: 24px;
+height: 24px;
+top: 111px;
+  left: 24px;
+  position: relative;
+}
+.pera_2{
+    width: 562px;
+height: 4px;
+border-radius: 8px;
+background: rgba(255, 255, 255, 0.30);
+position: relative;
+  top: 124px;
+  left: 24px;
+
+}
+.pera_4{
+    color: var(--Dark-07, #F3F3F3);
+    top:  70px;
+    left: 60px;
+    position: relative;
+
+font-size: 14px;
+
+font-weight: 400;
+
+}
+.prea_3{
+    width: 87px;
+  height: 4px;
+  position: relative;
+  top: -12px;
+}
+
+.img_last{
+    background-image: url(../Images/Rectangle\ 8\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 672px;
+height: 422px;
+border-radius: 16px;
+ 
+}
+.last_conten_1{
+    display: flex;
+    justify-content: center;
+  margin-top: 116px;
+}
+
+.last_1{
+    width: 474px;
+    height: 422px;
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+    margin-right: 24px;
+    padding-left: 36px;
+}
+.last_1 >h1{
+    color: #131318;
+
+font-size: 24px;
+
+font-weight: 800;
+
+}
+.last_1 > p{
+    color: #5A5A5D;
+   
+    font-size: 16px;
+  
+    font-weight: 400;
+    line-height: 26px; 
+}
+.last_2{}
+
+.last_2 > input{
+    width: 393px;
+height: 52px;
+ margin-bottom: 10px;
+}
+
+.img_andar{
+    width: 324px;
+height: 120px;
+transform: rotate(-19.628deg);
+border-radius: 16px;
+background: #FF5400;
+margin-top: 250px;
+  margin-left: 337px;
+}
+
+.img_andar > h2{
+    transform: rotate(-19.628deg);
+    color: #FFF;
+ 
+    margin-left: 49px;
+font-size: 24px;
+
+font-weight: 400;
+
+}
+.img_andar >h1{
+    transform: rotate(-14.628deg);
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 800;
+    margin-left: 44px;
+    margin-top: -4px;
+
+}
+.footer{
+    text-align: center;
+}
+
+.footer_1{
+text-align: center;
+}
+.footer_1 > img{
+    position: relative;
+    left: -177px;
+  top: 76px;
+}
+.footer_1 > h1{
 
 }
 
+.footer > p{
+    color: #5A5A5D;
 
+    font-family: Mulish;
+    font-size: 16px;
+   
+    font-weight: 400;
+    line-height: 95px;
+  width: 1866px;
+}
 
+.footer > img{
+    margin-bottom: 48px;
+}
+
+.biday{
+    color: #131318;
+
+font-size: 16px;
+text-align: center;
+  margin-top: 50px;
+font-weight: 300;
+ 
+}
+
+hr{
+    background: rgba(19, 19, 24, 0.10);
+    width: 872px;
+height: 1px;
+}
+footer{
+    background: rgba(19, 19, 24, 0.05);
+    width: 1440px;
+height: 502px;
+margin: 0 auto;
+border-radius: 29px;
+}
 
 
 
@@ -624,7 +950,13 @@ background: rgba(251, 181, 99, 0.05);
                   .Choose-ariya {
                     display: inline-block;
                     position: relative;
-                    right: 337px}
+                    right: 337px;
+                    top: -281px;
+                }
+                section{
+                    position: relative;
+                    top: -211px;
+                }
                     
                     .hedar_7 {
                         margin-top: 90px;
@@ -645,7 +977,9 @@ background: rgba(251, 181, 99, 0.05);
                             display: inline-block;}
                             .sob {
                                 width: 335px;
-                                height: 289px;}
+                                height: 289px;
+                                padding-left: 23px;
+                            }
                                 .top{
                                    color: #131318;
                                         text-align: center;
@@ -727,7 +1061,216 @@ background: rgba(251, 181, 99, 0.05);
                                                 margin-left: 92px;
                                               }
                                               
+                                              .Discounts_img {
+                                                margin-left: 24px;
+                                            }
+                                             .img_11{
+                                                height: 833px;
+                                                background-size: 32%;
+                                                background-image: url(../Images/Rectangle\ 12.png);
+                                                background-position-x: 53px;
+                                            }
+                                            .text_bay{
+                                                width: 292px;
+                                                height: 358px;
+                                                border-radius: 16px;
+                                                border: 2px solid #FFF;
+                                                background: rgba(255, 255, 255, 0.80);
+                                                backdrop-filter: blur(2.5px);
+                                                left: -447px;
+                                                top: 179px;
 
+                                            }
+                                            .hedig {
+                                                color: #131318;
+                                                font-size: 15px;}
+                                                .time{
+                                                    width: 31px;
+                                                    
+                                                }
+                                                .r{
+                                                    margin-top: -49px;
+                                                        position: relative;
+                                                        top: -165px;
+                                                }
+                                                .per{
+                                                    font-size: 14px;
+                                                    
+                                                    width: 284px;
+                                                    margin-left: 4px;
+                                                }
+                                                .time > ul {
+                                                            display: block;
+                                                      
+                                                        }
+                                                        .logo_1{
+                                                            width: 108px;
+                                                            margin-left: -66px;
+                                                        }
+                                                        .logo_2{
+                                                            width: 64px;
+                                                            margin-left: 93px;
+                                                            margin-top: 10px;
+                                                        }
+                                                        .logo_3{
+                                                            margin-top: -15px;
+                                                            margin-left: -62px;
+                                                        }
+                                                        .img_12 {
+                                                            background-image: url("../Images/Rectangle\ 13.png");
+                                                            background-repeat: no-repeat;
+                                                            height: 523px;
+
+                                                            margin-top: -196px;
+                                                            margin-left: 73px;  
+                                                        }
+                                                        .bay{
+                                                            left: -36px;
+                                                             top: 107px;
+                                                              
+                                                        }
+                                                        .img_13{
+                                                            height: 833px;
+                                                            background-size: 32%;
+                                                            background-image: url(../Images/Rectangle\ 12.png);
+                                                            background-position-x: 53px;
+                                                        }
+
+                                                        .last_conten{
+
+                                                            display: block;
+                                                        }
+                                                        .last{
+                                                            width: 335px;
+                                                            height: 200px;
+                                                            margin-left: 77px;
+                                                            margin-top: -159px;
+                                                        }
+                                                    .pera{
+                                                        top: 84px;
+                                                    }
+                                                    .pera_2{
+                                                        top: 82px;
+                                                    }
+                                                    .pera_4{
+                                                        top: 40px;
+                                                    }
+                                                    .last_pat{
+                                                        margin-top: -256px;
+                                                    }
+                                                    .last_conten_1{
+                                                        display: block;
+                                                        width: 335px;
+                                                        height: 353px;
+                                                    }
+
+                                                    .img_last{
+                                                        width: 335px;
+                                                        height: 300px;
+                                                        margin: 0 auto;
+                                                        margin-left: 95px;
+                                                     
+                                                    }
+                                                    .img_andar{
+                                                        width: 214.023px;
+                                                        height: 79.268px;
+                                                        transform: rotate(-19.628deg);
+                                                        flex-shrink: 0;
+                                                        margin-left: 116px;
+                                                        margin-top: 21px;
+                                                        position: relative;
+                                                        top: 183px;
+                                                    }
+                                                    .img_andar > h2{
+                                                        color: #FFF;
+                                                        text-align: center;
+                                                        transform: rotate(-19.628deg);
+                                                        font-size: 15.854px;
+                                                        margin-right: 122px;
+                                                        position: relative;
+                                                        top: 14px;
+                                                        font-weight: 400;
+                                                        
+                                                    }
+                                                    .img_andar > h1{
+                                                        color: #FFF;
+                                                        transform: rotate(-19.628deg);
+                                                        font-size: 21.138px;
+                                                       
+                                                        font-weight: 800;
+                                                        
+                                                    }
+                                                    .last_1{
+                                                        width: 335px;
+                                                        height: 353px;
+                                                        margin-left: 84px;
+                                                    }
+                                                    .last_2 > input{
+                                                        width: 288px;
+                                                        height: 52px;
+                                                        
+                                                    }
+                                                    footer{
+                                                        width: 100%;
+                                                        height: 309px;
+                                                        margin-top: 402px;
+                                                    }
+                                                    .footer_1 > h1{
+                                                        color: #131318;
+
+                                                        font-size: 21.543px;
+
+                                                        font-weight: 800;
+
+                                                    }
+                                                    .footer_1 > img{
+                                                        width: 39.724px;
+                                                        height: 34.516px;
+                                                        margin-left: 60px;
+                                                        position: relative;
+                                                        top: 65px;
+
+                                                    }
+                                                    .footer > p{
+                                                        width: 287px;
+                                                        color: #5A5A5D;
+                                                        text-align: center;
+                                                        
+                                                        font-size: 14px;
+
+                                                        font-weight: 400;
+                                                        line-height: 24px; 
+                                                        margin-left: 117px;
+                                                    }
+                                                    .footer_1{
+                                                        position: relative;
+                                                        top: -40px;
+                                                        height: 53px;
+                                                    }
+                                                    hr{
+                                                        width: 259px;
+                                                        height: 1px; 
+                                                    }
+                                                    .biday{
+                                                        margin-top: 26px;
+                                                    }
+                                                    .popur_img_1{
+                                                        width: 335px;
+                                                        height: 346px;
+                                                        margin-left: 95px;
+                                                    }
+                                                    .Discounts_hedar > p{
+                                                        color: rgba(19, 19, 24, 0.70);
+                                                        text-align: center;
+                                                       
+                                                        font-size: 14px;
+                                                        position: relative;
+    left: -494px;
+                                                        font-weight: 400;
+                                                        line-height: 24px;
+
+                                                        width: 309px;
+                                                    }
 
         }
 
