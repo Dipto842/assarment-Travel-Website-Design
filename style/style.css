@@ -907,6 +907,7 @@ margin-top: 83px;
               .popurar_conten {
                 width: 100%;
                 height: 571px;
+                margin-top: -508px;
               }
               .popurar_perakiram {
                 color: rgba(19, 19, 24, 0.70);
@@ -957,11 +958,11 @@ margin-top: 83px;
                     display: inline-block;
                     position: relative;
                     right: 337px;
-                    top: -281px;
+                    top: -557px;
                 }
                 section{
                     position: relative;
-                    top: -211px;
+                    top: -770px;
                 }
                     
                     .hedar_7 {
