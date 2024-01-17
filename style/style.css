@@ -836,69 +836,69 @@ margin-top: 83px;
                 border-radius: 23px;
                 background-size: 1086px;
                 margin-top: 394px;
-    
+                margin-top: 1252px;
             }
 
 
             .hedik_1{
                 color: #FFF;
-    font-size: 22px;
-    font-weight: 800;
-    padding-top: 30px;
+                font-size: 22px;
+                font-weight: 800;
+                padding-top: 30px;
             }
 
 
             .perakirasp_1{
                 font-size: 12px;
-    font-weight: 400;
-    line-height: 24px;
-    position: relative;
-    right: 320px;
-    width: 330px;
-    height: 90px;
+                font-weight: 400;
+                line-height: 24px;
+                position: relative;
+                right: 320px;
+                width: 330px;
+                height: 90px;
             }
 
 
             .new{
                 display: inline-flex;
-    width: 242px;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 15px;
-    position: relative;
-    left: 50px;
-    margin-top: 282px;
-            }
+                width: 242px;
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 15px;
+                position: relative;
+                left: 50px;
+                margin-top: 1240px;
+                        }
             .amar{
                 margin-left: 4px;
-    padding-left: 39px;
-    width: 186px;
-            }
+                padding-left: 39px;
+                width: 186px;
+                        }
             .p{
                 position: relative;
-    right: 17px;
-    color: rgba(19, 19, 24, 0.50);
-    text-align: center;
-    font-size: 16px;
-    font-weight: 400;
-    top: -9px;
-            }
+                right: 17px;
+                color: rgba(19, 19, 24, 0.50);
+                text-align: center;
+                font-size: 16px;
+                font-weight: 400;
+                top: -9px;
+                        }
             .button{
                 position: relative;
-    left: 8px;
-    width: 164px;
-    color: white;
-    width: 216px;
-    height: 52px;
-            }
+                left: 8px;
+                width: 164px;
+                color: white;
+                width: 216px;
+                height: 52px;
+                        }
             .button_2{
                 background-image: url(../Images/cc.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-position-x: center;
-    background-position-x: 23px;
-    background-size: 24px;
-            }
+                background-repeat: no-repeat;
+                background-position: center;
+                background-position-x: center;
+                background-position-x: 23px;
+                background-size: 24px;
+                        }
 
             .popurar {
                 display: block;
@@ -915,7 +915,7 @@ margin-top: 83px;
                 font-weight: 400;
                 line-height: 26px;
                 width: 379px;
-                margin-left: 101px;
+                margin-left: 2px;
                 height: 68px
               }
               .popurar_ul {
@@ -924,7 +924,7 @@ margin-top: 83px;
                 font-weight: 400;
                 line-height: 32px;
                 width: 326px;
-                margin-left: 78px;
+                margin-left: -22px;
                 padding-top: 10px;}
 
 
@@ -957,17 +957,17 @@ margin-top: 83px;
                   .Choose-ariya {
                     display: inline-block;
                     position: relative;
-                    right: 337px;
-                    top: -557px;
+                    right: 425px;
+                    margin-top: -80px;
                 }
                 section{
                     position: relative;
-                    top: -770px;
+                    top: -1167px;
                 }
                     
                     .hedar_7 {
-                        margin-top: 90px;
-    margin-left: 90px;
+                        margin-top: -1109px;
+                        margin-left: 32px;
                       }
                       .new_2 {
                         margin-left: -41px;
@@ -1069,7 +1069,7 @@ margin-top: 83px;
                                               }
                                               
                                               .Discounts_img {
-                                                margin-left: 24px;
+                                                margin-left: -33px;
                                             }
                                              .img_11{
                                                 height: 833px;
@@ -1150,9 +1150,19 @@ margin-top: 83px;
                                                         .last{
                                                             width: 335px;
                                                             height: 200px;
-                                                            margin-left: 77px;
+                                                            margin-left: 13px;
                                                             margin-top: -159px;
                                                         }
+                                                        .last_pat > h1{
+                                                            width: 435px;
+                                                        }
+                                                    .last_pat > p{
+                                                        width: 363px;
+                                                    }
+                                                    .last_pat > ul{
+                                                        width: 378px;
+                                                        margin-left: -26px;
+                                                    }
                                                     .pera{
                                                         top: 84px;
                                                     }
@@ -1169,6 +1179,7 @@ margin-top: 83px;
                                                         display: block;
                                                         width: 335px;
                                                         height: 353px;
+                                                        margin-left: -72px;
                                                     }
 
                                                     .img_last{
@@ -1220,7 +1231,9 @@ margin-top: 83px;
                                                     footer{
                                                         width: 100%;
                                                         height: 309px;
-                                                        margin-top: 402px;
+                                                      
+                                                        position: relative;
+                                                        margin-top: -692px;
                                                     }
                                                     .footer_1 > h1{
                                                         color: #131318;
@@ -1247,7 +1260,7 @@ margin-top: 83px;
 
                                                         font-weight: 400;
                                                         line-height: 24px; 
-                                                        margin-left: 117px;
+                                                        margin-left: 46px;
                                                     }
                                                     .footer_1{
                                                         position: relative;
@@ -1264,7 +1277,7 @@ margin-top: 83px;
                                                     .popur_img_1{
                                                         width: 335px;
                                                         height: 346px;
-                                                        margin-left: 95px;
+                                                        margin-left: 14px;
                                                     }
                                                     .Discounts_hedar > p{
                                                         color: rgba(19, 19, 24, 0.70);
@@ -1272,7 +1285,7 @@ margin-top: 83px;
                                                        
                                                         font-size: 14px;
                                                         position: relative;
-    left: -494px;
+                                                        left: -574px;
                                                         font-weight: 400;
                                                         line-height: 24px;
 
@@ -1281,5 +1294,7 @@ margin-top: 83px;
 
         }
 
+
+        
 
         
