@@ -671,22 +671,23 @@ margin-top: 250px;
 }
 
 .img_andar > h2{
-    transform: rotate(-19.628deg);
+    transform: rotate(-2.628deg);
     color: #FFF;
- 
-    margin-left: 49px;
-font-size: 24px;
-
-font-weight: 400;
+    margin-left: 93px;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    top: 19px;
+  
 
 }
 .img_andar >h1{
-    transform: rotate(-14.628deg);
-    color: #FFF;
-    font-size: 32px;
-    font-weight: 800;
-    margin-left: 44px;
-    margin-top: -4px;
+    transform: rotate(-2.628deg);
+  color: #FFF;
+  font-size: 32px;
+  font-weight: 800;
+  margin-left: 44px;
+  margin-top: 37px;
 
 }
 .footer{
@@ -744,11 +745,120 @@ margin: 0 auto;
 border-radius: 29px;
 margin-top: 83px;
 }
+.box_areee{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-top: 298px;
+}
+.box{ 
+    height: 381px;
+    border-radius: 20px;
+    border: 2px solid white;
+    box-shadow: 2px 3px 3px 3px #8c8080;
+    width: 302px;
+  padding-left: 3px;
+  margin-left: 140px;
+
+}
+.box > h1{
+    color: #131318;
+    font-size: 21px;
+    font-weight: 800;
+    height: 51px;
+}
+.backraon{
+    background-image: url(../Images/nije.webp);
+    background-size: 309px;
+  width: 309px;
+  height: 204px;
+  background-repeat: no-repeat;
+  border-radius: 20px 20px 5px 7px;
+  position: relative;
+  top: -2px;
+  left: -5px;
+}
+.box >p{
+
+}
+.birok{
+    background-size: 699px;
+  background-position-x: -223px;
+}
+
+.box > img{
+    width: 82px;
+}
+.box > a{
+    text-decoration: none;
+    color: #201a1a;
+    padding-top: 10px;
+    top: 25px;
+    position: relative;
+
+}
+
+.hr{
+    background: rgba(19, 19, 24, 0.10);
+    width: 294px;
+    height: 0px}
 
 
 
 
+    .back{
+        background-image: url(../Images/nije_1.webp);
+        background-repeat: no-repeat;
+        width: 309px;
+        height: 204px;
+        background-repeat: no-repeat;
+        border-radius: 20px 20px 5px 7px;
+        position: relative;
+        top: -2px;
+        left: -5px;
+    }
+    .back_1{
+background-image: url(../Images/nije_2.webp);
+background-repeat: no-repeat;
+width: 309px;
+height: 204px;
+background-repeat: no-repeat;
+border-radius: 20px 20px 5px 7px;
+position: relative;
+top: -2px;
+left: -5px;
+    }
+    .back_2{
+background-image: url(../Images/nije_3.webp);
+background-repeat: no-repeat;
+width: 309px;
+height: 204px;
+background-repeat: no-repeat;
+border-radius: 20px 20px 5px 7px;
+position: relative;
+top: -2px;
+left: -5px;
+    }
+    .aru{
+        position: relative;
+        left: 134px;
+    }
+  
 
+    .aru_2{
+        position: relative;
+        left: -135px;
+    }
+
+    .aru_3{
+        position: relative;
+        left: -271px;
+    }
+
+    .barti_kaj{
+        margin-left: 750px;
+        position: relative;
+        top: 138px;
+    }
 
 
 
@@ -974,7 +1084,7 @@ margin-top: 83px;
                         width: 410px;
                         color: rgba(19, 19, 24, 0.70);
                         text-align: center;
-                        font-family: Mulish;
+                      
                         font-size: 14px;
                         font-style: normal;
                         font-weight: 400;
@@ -1216,8 +1326,8 @@ margin-top: 83px;
                                                         font-size: 21.138px;
                                                        
                                                         font-weight: 800;
-                                                        
-                                                    }
+
+                                                                                 }
                                                     .last_1{
                                                         width: 335px;
                                                         height: 353px;
@@ -1233,7 +1343,7 @@ margin-top: 83px;
                                                         height: 309px;
                                                       
                                                         position: relative;
-                                                        margin-top: -692px;
+                                                        margin-top: -1051px;
                                                     }
                                                     .footer_1 > h1{
                                                         color: #131318;
@@ -1291,10 +1401,39 @@ margin-top: 83px;
 
                                                         width: 309px;
                                                     }
+                                                    .box_areee{
+                                                        display: grid;
+                                                        gap: 48px;
+                                                        grid-template-columns: repeat(1,auto);
+                                                        justify-content: center;
+                                                    }
 
-        }
+                                                    .box{
+                                                        padding-left: 0;
+                                                         margin-left: 0;
+                                                    }
+                                                    .aru{
+                                                        left:0;
+
+                                                    }
+                                                    
+                                                    .aru_2{
+                                                        position: sticky;
+                                                    }
+
+                                                    .aru_3{
+                                                        position: sticky;
+                                                    }
+
+                                                    .img_andar > h1{
+                                                        margin-top: 25px;
+                                                        transform: rotate(-0.628deg);
+                                                    }
+
+                                                    .img_andar > h2{
+                                                        transform: rotate(-6.628deg);
+                                                    }
 
 
-        
 
-        
+                                                }
